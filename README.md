@@ -118,6 +118,3 @@ This will allow the client front-end to request content for all Lorem Ipsum sect
 - [Next.js by Vercel - The React Framework](https://nextjs.org/)
 - [NestJS - A progressive Node.js framework](https://nestjs.com/)
 - [Laravel](https://laravel.com)
-
-
-test
